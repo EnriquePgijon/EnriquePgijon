@@ -1,16 +1,25 @@
-## Hi there 👋
+# Enrique 
+  
 
-<!--
-**EnriquePgijon/EnriquePgijon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Profile views](https://komarev.com/ghpvc/?username=EnriquePgijon&color=0e75b6)](https://github.com/EnriquePgijon)
 
-Here are some ideas to get you started:
+> Desarrollador apasionado por crear software útil, limpio y bien documentado
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tecnologías y herramientas
+- Lenguajes: JavaScript, Python, Java, Kotlin
+- Frameworks: Angular, Ionic
+- Base de datos: MySQL, MongoDB 
+---
+
+###  Proyectos destacados
+- 1º (https://github.com/EnriquePgijon/Mongodb) — Prácticas con la base de datos MongoDB 
+- 2º (https://github.com/EnriquePgijon/ColoniaHormigas) — Proyecto llevado a cabo en java, simula el funcionamiento de una colonia de hormigas
+- 3º (https://github.com/EnriquePgijon/SecMed) — Proyecto que simula un Sistema médico.
+
+
+---
+
+
+
+
